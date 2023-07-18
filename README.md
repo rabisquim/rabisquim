@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<a href="https://imgur.com/mHKPSnW"><img src="https://i.imgur.com/mHKPSnW.png" title="source: imgur.com" width="480" height= "480"/></a>
+<a href="https://imgur.com/mHKPSnW"><img src="https://i.imgur.com/mHKPSnW.png" title="source: imgur.com" width="240" height= "240"/></a>
 
 # ⚡Um pouco sobre mim:
 Profissional de TI com 20+ anos de experiência em suporte e infraestrutura, especialista em gestão dessa infraestrutura. Expertise em liderança de equipes, gerenciamento de projetos e melhores práticas de serviço de TI. Experiência em segurança da informação e processos eficientes do Service Desk.
@@ -11,7 +11,7 @@ Profissional de TI com 20+ anos de experiência em suporte e infraestrutura, esp
 Atualmente, meu desejo é migrar da área de infraestrutura para o desenvolvimento de softwares.  
 
 # 🌱O que tenho estudado:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="30" height="30" />
            
 # 📫Contatos:
 
