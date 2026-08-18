@@ -1,32 +1,66 @@
-# Olá, Eu sou o Robson, meu nickname é rabisquim!
+# Olá, eu sou o Robson Paulo 👋
 
-## Bem vindo ao meu perfil GitHub 👋
+**COO | Gestão de TI | Produto & Projetos | Desenvolvimento de Software**
 
-<a href="https://imgur.com/mHKPSnW"><img src="https://i.imgur.com/mHKPSnW.png" title="source: imgur.com" width="240" height= "240"/></a>
+Profissional de tecnologia com **20+ anos de experiência em TI**, passando por suporte, infraestrutura, gestão de serviços, liderança de equipes, projetos, implantação de soluções e produto.
 
-# ⚡Um pouco sobre mim:
-Profissional de TI com 20+ anos de experiência em suporte e infraestrutura, especialista em gestão dessa infraestrutura. Expertise em liderança de equipes, gerenciamento de projetos e melhores práticas de serviço de TI. Experiência em segurança da informação e processos eficientes do Service Desk.
+Minha experiência está na interseção entre **tecnologia, negócio e gestão**. Gosto de entender o problema, organizar a estratégia e transformar a ideia em uma solução que realmente funcione.
 
-# 💻Transição de Carreira:
-Atualmente, meu desejo é migrar da área de infraestrutura para o desenvolvimento de softwares.  
+Atualmente, também estou cada vez mais envolvido com **desenvolvimento de software**, usando programação como ferramenta para construir produtos, automatizar processos e resolver problemas reais.
 
-# 🌱O que tenho estudado:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="30" height="30" />
-           
-# 📫Contatos:
+## 🚀 O que faço
 
-<div>
-<a href="https://instagram.com/mr_robsonpaulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:robsonspaulo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/robsonspaulo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+* Gestão e estratégia de TI
+* Gestão de produtos e projetos
+* Implantação de soluções digitais
+* Liderança de equipes e operações
+* Arquitetura e desenvolvimento de software
+* Automação e integração de sistemas
+* Governança e processos de TI
+* Desenvolvimento de produtos com IA
 
-# 🌇Localização:
-Santa Catarina / SC
+## 💻 Tecnologias
 
-## 🔰Estatísticas:
-<div>
-<a href="https://github.com/rabisquim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabisquim&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabisquim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+**Desenvolvimento**
+
+`Java` `Kotlin` `JavaScript` `Node.js` `Go` `C#`
+
+**Web & Backend**
+
+`HTML` `CSS` `REST APIs` `Firebase` `MySQL`
+
+**Cloud & DevOps**
+
+`AWS` `Google Cloud` `Git` `GitHub` `Netlify`
+
+**Gestão & Governança**
+
+`ITIL` `COBIT` `ISO/IEC 20000` `ISO/IEC 27001`
+
+## 🧠 Atualmente
+
+Estou trabalhando em projetos que combinam **software, gestão e inteligência artificial**, enquanto continuo aprofundando minha experiência prática em desenvolvimento.
+
+Também mantenho projetos próprios para experimentar tecnologias, arquiteturas e novas ideias de produto.
+
+## 📌 Projetos
+
+### 🌐 Portfólio profissional
+
+Meu portfólio reúne minha trajetória, experiência profissional, projetos e áreas de atuação.
+
+👉 **[robsonpaulo.netlify.app](https://robsonpaulo.netlify.app/)**
+
+### 🛠️ Outros projetos
+
+Aqui no GitHub você encontrará projetos de estudo, experimentos, aplicações e soluções desenvolvidas ao longo da minha evolução técnica.
+
+## 📫 Contato
+
+* 🌐 **Portfólio:** [robsonpaulo.netlify.app](https://robsonpaulo.netlify.app/)
+* 💼 **LinkedIn:** [linkedin.com/in/robsonpaulo](https://www.linkedin.com/in/robsonpaulo/)
+* 📧 **E-mail:** [robsonspaulo@gmail.com](mailto:robsonspaulo@gmail.com)
+
+---
+
+> Tecnologia é uma ferramenta. O mais interessante é descobrir o problema certo para resolvê-la.
